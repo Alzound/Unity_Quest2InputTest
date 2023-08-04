@@ -1,0 +1,214 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "Quest",
+            "id": "075bc4f0-b484-4e44-ab9a-35bfe50a3182",
+            "actions": [
+                {
+                    "name": "PrimaryButtonR",
+                    "type": "Button",
+                    "id": "7e29c08d-e418-4fef-8e6b-c7a25ff06af6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PrimaryButtonL",
+                    "type": "Button",
+                    "id": "6092480f-d733-432f-9ed7-e959d966c377",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondaryButtonR",
+                    "type": "Button",
+                    "id": "9867fc5f-db0e-4611-8f57-79ef98ae0b00",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondaryButtonL",
+                    "type": "Button",
+                    "id": "7265fb0d-44ed-46bd-a616-97d075e67144",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GripButtonR",
+                    "type": "Button",
+                    "id": "dc6ca29b-5c32-4335-8254-0d213d4774e6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GripButtonL",
+                    "type": "Button",
+                    "id": "7e1c2817-f3b6-4a79-819b-938c7acdc900",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "StartButtonR",
+                    "type": "Button",
+                    "id": "6d02b04a-901a-4733-9441-35365cf12a85",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "StartButtonL",
+                    "type": "Button",
+                    "id": "eb99d418-adef-40b9-9098-7f7ac4a8c544",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "TriggerButtonR",
+                    "type": "Button",
+                    "id": "499464a9-a3d1-4207-86eb-9f03e36df961",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "TriggerButtonL",
+                    "type": "Button",
+                    "id": "76496790-e364-4027-8470-880927be1b34",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3ceb5987-d464-461d-b2d8-87d4d87443f1",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "13f4346d-6550-4f73-a20a-e15520d47aab",
+                    "path": "<OculusTouchController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondaryButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c55e7312-aa76-45a5-8417-c1b1a2a088de",
+                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GripButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4e69b12f-81d4-4dad-ad67-f0b76d61a4ab",
+                    "path": "<OculusTouchController>{RightHand}/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StartButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d319e1cc-53ef-487c-9339-ccbfa4fa3bf0",
+                    "path": "<OculusTouchController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b9b4546d-6ee7-4bae-8ee9-cec0ee6c0043",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3606e284-281c-42c9-89ab-82db6cb3b5ba",
+                    "path": "<OculusTouchController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondaryButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46bbbdbf-865b-4515-8138-0fa0e2a33fdd",
+                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GripButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "56d188b4-c75b-4fbf-bede-30aa4b60fe15",
+                    "path": "<OculusTouchController>{RightHand}/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StartButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc9e3c6c-9b81-4bbc-8566-326effcf80d0",
+                    "path": "<OculusTouchController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
